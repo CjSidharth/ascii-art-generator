@@ -1,7 +1,7 @@
 # ascii-art-generator
 A primitive ASCII Art generator.
-![ascii-text](example/botw-ascii.png)
-![image](example/botw.jpg)
+![ascii-text](example/pineapple-ascii.png)
+![image](example/pineapple.jpg)
 
 Usage:
 ```bash
