@@ -2,6 +2,7 @@
 A primitive ASCII Art generator.
 ![ascii-text](example/pineapple-ascii.png)
 ![image](example/pineapple.jpg)
+
 Usage:
 ```bash
 pipenv run python main.py
