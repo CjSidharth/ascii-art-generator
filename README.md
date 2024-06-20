@@ -1,7 +1,7 @@
 # ascii-art-generator
 A primitive ASCII Art generator.
-![image](example/botw.jpg)
 ![ascii-text](example/botw-ascii.png)
+![image](example/botw.jpg)
 Usage:
 ```bash
 pipenv run python main.py
