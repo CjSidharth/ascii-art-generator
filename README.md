@@ -6,3 +6,7 @@ Usage:
 ```bash
 pipenv run python main.py
 ```
+Choose camera option or enter path to image.
+```bash
+Enter 1 for camera otherwise enter 2 for custom file.
+```
