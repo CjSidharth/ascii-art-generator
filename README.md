@@ -1,5 +1,5 @@
 # ascii-art-generator
-A primitive ASCII Art generator.
+A primitive ASCII Art generator.\
 Based on [ASCII Generator by Robert Heaton](https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-ascii-art/). 
 ![ascii-text](example/pineapple-ascii.png)
 ![image](example/pineapple.jpg)
