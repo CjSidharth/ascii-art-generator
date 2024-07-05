@@ -8,6 +8,7 @@ Usage:
 
 ```bash
 git clone https://github.com/CjSidharth/ascii-art-generator
+cd ascii-art-generator
 pipenv sync
 pipenv run python main.py
 ```
